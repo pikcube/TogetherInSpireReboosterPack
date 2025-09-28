@@ -1,1 +1,1 @@
-# Together I nSpire Rebooster Pack
+# Together In Spire Rebooster Pack
