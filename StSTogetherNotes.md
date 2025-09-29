@@ -118,6 +118,7 @@
 - Genetic Algorithm: can target allies
 - Reprogram: can't be traded?/playable only by Defect?
 - Amplify: can target allies
+- Seek: Upgrade so you and target ally tutor a card
 
 ### New card ideas
 
@@ -159,4 +160,5 @@
 
 
 ### Relic ideas
+
 - if you would mill, scry instead (only spawns if silent/mill effects in play)
